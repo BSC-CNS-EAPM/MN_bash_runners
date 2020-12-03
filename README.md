@@ -1,7 +1,7 @@
 # Run files for Marenostrum clusters
 A collection of bash files to launch jobs in different MareNostrum clusters
 
-## Contents
+## List of runners:
 | **Cluster** | Software | Available | File |
 | :------ | :-------: | :-------: | -------: |
 | MarenostrumIV | PELE-1.6 | :white_check_mark: | [run_pele_1.6.sh](https://github.com/martimunicoy/MN_bash_runners/blob/main/run_files/marenostrumIV/run_pele_1.6.sh) |
