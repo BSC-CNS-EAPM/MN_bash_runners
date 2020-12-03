@@ -9,7 +9,7 @@
 #SBATCH --qos=bsc_ls
 
 module purge
-module load intel mkl impi python/2.7.13 boost/1.64.0_py2 gcc
+module load intel mkl impi python/2.7.13 boost/1.64.0_py2 gcc openmp
 
 export PYTHONPATH=/gpfs/projects/bsc72/adaptiveSampling/bin/v1.6.2/:$PYTHONPATH
 export PYTHONPATH=/gpfs/projects/bsc72/lib/site-packages/:$PYTHONPATH
