@@ -12,7 +12,7 @@ module purge
 export PYTHONPATH=/gpfs/projects/bsc72/adaptiveSampling/bin_nord/v1.6/:$PYTHONPATH
 export PYTHONPATH=/gpfs/projects/bsc72/lib/site-packages_mn3:$PYTHONPATH
 
-module load intel gcc openmpi/1.8.1 boost/1.63.0 python/2.7.3 MKL/11.3 GTK+3/3.2.4
+module load intel gcc/6.1.0 MKL openmpi/1.8.1 intel/2017.0.098 boost/1.63.0 python/2.7.12 GTK+3/3.2.4
 
 export MPLBACKEND=Agg
 export OMPI_MCA_coll_hcoll_enable=0
