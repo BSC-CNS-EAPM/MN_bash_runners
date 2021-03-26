@@ -13,6 +13,6 @@ module load boost/1.64.0
 
 eval "$(conda shell.bash hook)"
 
-conda activate /gpfs/projects/bsc72/conda_envs/platform/1.6.0b1
+conda activate /gpfs/projects/bsc72/conda_envs/platform/1.6.0b
 
 python -m pele_platform.main clustering_input.yaml
