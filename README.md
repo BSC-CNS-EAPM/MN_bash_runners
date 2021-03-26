@@ -19,6 +19,6 @@ A collection of bash files to launch jobs in different MareNostrum clusters
 | PELE-1.6 | :white_check_mark: | [run_pele_v1.6.sh](https://github.com/martimunicoy/MN_bash_runners/blob/main/run_files/nord/run_pele_v1.6.sh) |
 | AdaptivePELE-1.6 | :white_check_mark: | [run_adaptive_v1.6.sh](https://github.com/martimunicoy/MN_bash_runners/blob/main/run_files/nord/run_adaptive_v1.6.sh) |
 | PELEPlatform-1.5.1 | :x: |  |
-| PELEPlatform-1.6.0 | :x: |  |
+| PELEPlatform-1.6.0 | :white_check_mark: | [run_peleplatform_v1.6.0.sh](https://github.com/martimunicoy/MN_bash_runners/blob/main/run_files/nord/run_peleplatform_v1.6.0) |
 | FragPELE | :x: |  |
 | peleffy-1.1.0 | :white_check_mark: | [run_peleffy_v1.1.0.sh](https://github.com/martimunicoy/MN_bash_runners/blob/main/run_files/nord/run_peleffy_v1.1.0.sh) |
