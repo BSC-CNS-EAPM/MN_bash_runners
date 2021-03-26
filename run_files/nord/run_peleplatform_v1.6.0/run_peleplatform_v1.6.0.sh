@@ -15,4 +15,4 @@ eval "$(conda shell.bash hook)"
 
 conda activate /gpfs/projects/bsc72/conda_envs/platform/1.6.0_nord
 
-python -m pele_platform.main clustering_input.yaml
+python -m pele_platform.main input.yaml
