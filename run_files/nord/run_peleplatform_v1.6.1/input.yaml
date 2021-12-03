@@ -1,0 +1,6 @@
+system: 'docking.pdb'
+chain: 'Z'
+resname: 'LIG'
+induced_fit_long: true
+seed: 12345
+cpus: 64
