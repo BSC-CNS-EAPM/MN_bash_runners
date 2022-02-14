@@ -1,15 +1,15 @@
 #!/bin/bash
-#SBATCH --job-name=test
-#SBATCH --output=mpi_%j.out
-#SBATCH --error=mpi_%j.err
-#SBATCH --ntasks=4
-#SBATCH --time=00-2:00:00
+#SBATCH --job-name=PELE
+#SBATCH --output=PELE.out
+#SBATCH --error=PELE.err
+#SBATCH --ntasks=5    # change this value to match CPUs in input.yaml
 #SBATCH --qos=debug
+#SBATCH --time=00-01:00:00
 
-module load ANACONDA/2019.10
-module load intel mkl impi gcc # 2> /dev/null
-module load impi
-module load boost/1.64.0
+module purge
+
+module load anaconda
+module load intel impi mkl boost cmake transfer bsc
 
 eval "$(conda shell.bash hook)"
 
