@@ -8,6 +8,7 @@ A collection of bash files to launch jobs in different MareNostrum clusters
 | :------- | :-------: | :------- |
 | PELE-1.6 | :white_check_mark: | [run_pele_v1.6.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/marenostrumIV/run_pele_v1.6.sh) |
 | PELE-1.7 | :white_check_mark: | [run_pele_v1.7.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/marenostrumIV/run_pele_v1.7.sh) |
+| PELE-1.8_pre | :white_check_mark: | [run_pele_v1.8.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/marenostrumIV/run_pele_v1.8.sh) |
 | AdaptivePELE-1.6.2 | :white_check_mark: | [run_adaptive_v1.6.2.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/marenostrumIV/run_adaptive_v1.6.2.sh) |
 | PELEPlatform-1.5.1 | :white_check_mark: | [run_peleplatform_v1.5.1.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/marenostrumIV/run_peleplatform_v1.5.1) |
 | PELEPlatform-1.6.0 | :white_check_mark: | [run_peleplatform_v1.6.0.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/marenostrumIV/run_peleplatform_v1.6.0) |
@@ -41,6 +42,7 @@ A collection of bash files to launch jobs in different MareNostrum clusters
 | :------- | :-------: | :------- |
 | PELE-1.6 | :x: |  |
 | PELE-1.7.1 | :white_check_mark: | [run_pele_v1.7.1.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/nord3v2/run_pele_v1.7.1.sh) |
+| PELE-1.8_pre | :white_check_mark: | [run_pele_v1.8.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/nord3v2/run_pele_v1.8.sh) |
 | AdaptivePELE-1.6 | :x: |  |
 | AdaptivePELE-1.7.1 | :white_check_mark: | [run_adaptive_v1.7.1.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/nord3v2/run_adaptive_v1.7.1.sh) |
 | PELEPlatform-1.5.1 | :x: |  |
