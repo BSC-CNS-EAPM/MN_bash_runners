@@ -13,7 +13,7 @@ module load intel impi mkl boost cmake transfer bsc
 
 eval "$(conda shell.bash hook)"
 
-conda activate /gpfs/projects/bsc72/conda_envs/platform/1.6.3
+conda activate /gpfs/projects/bsc72/conda_envs/peleffy/1.4.3
 
 python -m peleffy.main ligand_to_parametrize.pdb -f OPLS2005 --as_datalocal
 
