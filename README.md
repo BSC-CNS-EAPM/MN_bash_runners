@@ -39,5 +39,5 @@ A collection of bash files to launch jobs in different MareNostrum clusters
 | peleffy-1.1.0 | :x: |  |
 | peleffy-1.3.4 | :x: |  |
 | peleffy-1.4.1 | :white_check_mark: | [run_peleffy_v1.4.1.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/nord3v2/run_peleffy_v1.4.1.sh) |
-| peleffy-1.4.1 | :white_check_mark: | [run_peleffy_v1.4.3.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/nord3v2/run_peleffy_v1.4.3.sh) |
+| peleffy-1.4.3 | :white_check_mark: | [run_peleffy_v1.4.3.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/nord3v2/run_peleffy_v1.4.3.sh) |
 
