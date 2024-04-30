@@ -10,6 +10,10 @@
 ##SBATCH --qos=gp_debug
 
 module purge
-module load intel mkl impi anaconda bsc cmake
+ml intel/2023.2.0
+ml cmake/3.25.1
+ml impi/2021.10.0
+ml mkl/2023.2.0
+ml boost/1.77.0-gcc
 
-mpirun -n 96 /gpfs/projects/bsc72/PELE++/mnv/1.8.0/bin/PELE-1.8_mpi pele.conf
+mpirun -n 96 /gpfs/projects/bsc72/PELE++/mnv/1.8.0/bin/PELE-1.8_mpi_intel pele.conf
