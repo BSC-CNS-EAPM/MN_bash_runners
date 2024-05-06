@@ -5,6 +5,7 @@
 #SBATCH --error=output_%j.err
 #SBATCH --ntasks=128
 #SBATCH --time=00-48:00:00
+#SBATCH --cpus-per-task=1
 #SBATCH -D .
 #SBATCH --qos=gp_bscls
 
@@ -19,6 +20,7 @@ ml anaconda
 ml bsc
 ml transfer
 
+export SRUN_CPUS_PER_TASK=${SLURM_CPUS_PER_TASK}
 export SCHRODINGER="/gpfs/projects/bsc72/Programs/SCHRODINGER_ACADEMIC"
 export SCHRODINGER_PYTHONPATH="/gpfs/projects/bsc72/Programs/SCHRODINGER_ACADEMIC/internal/lib/python2.7/site-packages"
 export PELE="/gpfs/projects/bsc72/PELE++/mnv/1.8.0/bin/"
