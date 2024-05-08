@@ -4,3 +4,4 @@ resname: 'LIG'
 induced_fit_long: true
 seed: 12345
 cpus: 50
+usesrun: true
