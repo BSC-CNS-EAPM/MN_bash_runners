@@ -2,6 +2,7 @@
 #SBATCH --job-name=PELE
 #SBATCH --output=PELE.out
 #SBATCH --error=PELE.err
+#SBATCH --account=bsc72
 #SBATCH --ntasks=50
 #SBATCH --qos=gp_debug
 #SBATCH --time=00-02:00:00

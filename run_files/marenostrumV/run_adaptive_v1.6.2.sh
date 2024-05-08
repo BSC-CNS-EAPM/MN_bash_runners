@@ -3,6 +3,7 @@
 #SBATCH --job-name=JOB_NAME
 #SBATCH --output=output_%j.out
 #SBATCH --error=output_%j.err
+#SBATCH --account=bsc72
 #SBATCH --ntasks=128
 #SBATCH --time=00-48:00:00
 #SBATCH --cpus-per-task=1
