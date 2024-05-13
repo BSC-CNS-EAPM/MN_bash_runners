@@ -11,7 +11,7 @@
 #SBATCH --account=bsc72
 #SBATCH --ntasks=1
 
-# Runner with Amber with files from Charm-GUI
+# Runner for Amber with files from Charm-GUI
 
 module purge
 module load impi intel mkl
