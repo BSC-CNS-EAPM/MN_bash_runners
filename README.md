@@ -3,7 +3,6 @@ A collection of bash files to launch jobs in different MareNostrum clusters
 
 ## Available runners:
 
-
 ### Marenostrum V
 | Software | Available | File |
 | :------- | :-------: | :------- |
@@ -13,7 +12,10 @@ A collection of bash files to launch jobs in different MareNostrum clusters
 | Alphafold23-monomer | :white_check_mark: | [run_AF23_monomer.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/marenostrumV/run_AF23_monomer.sh) |
 | AMBER-charmGui | :white_check_mark: | [run_amber_charmGui.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/marenostrumV/run_amber_charmGui.sh) |
 
-
+### CTE-AMD
+| Software | Available | File |
+| :------- | :-------: | :------- |
+| Schrodinger Qsite | :white_check_mark: | [run_qsite.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/cte-amd/run_qsite.sh) |
 
 ### Marenostrum IV
 | Software | Available | File |
