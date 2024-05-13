@@ -4,7 +4,7 @@ A collection of bash files to launch jobs in different MareNostrum clusters
 ## Available runners:
 
 
-### Marenostrum IV
+### Marenostrum V
 | Software | Available | File |
 | :------- | :-------: | :------- |
 | PELE-1.8.0 | :white_check_mark: | [run_pele_v1.8.0.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/marenostrumV/run_pele_v1.8.sh) |

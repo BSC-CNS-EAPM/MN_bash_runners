@@ -15,7 +15,7 @@
 
 module purge
 module load singularity alphafold/2.3.2 cuda
-#export SRUN_CPUS_PER_TASK=${SLURM_CPUS_PER_TASK}
+export SRUN_CPUS_PER_TASK=${SLURM_CPUS_PER_TASK}
 
 DIR=$(pwd)
 
