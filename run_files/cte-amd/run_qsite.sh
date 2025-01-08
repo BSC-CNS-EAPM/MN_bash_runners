@@ -7,7 +7,7 @@
 ##SBATCH --qos=bscls
 #SBATCH --qos=debug
 #SBATCH --time=2:00:00
-#SBATCH --constrain=schrodinger
+#SBATCH --constraint=schrodinger
 
 export PATH=$PATH:/gpfs/projects/bsc72/Programs/schrodinger2024-1
 export SCHRODINGER=/gpfs/projects/bsc72/Programs/schrodinger2024-1
