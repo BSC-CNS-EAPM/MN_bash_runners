@@ -32,4 +32,4 @@ export SRUN=1  # this is to avoid having to set usesrun: true in input.yaml
 
 source activate /gpfs/projects/bsc72/conda_envs/adaptive
 
-python -m AdaptivePELE.adaptiveSamplin adaptive.conf
+python -m AdaptivePELE.adaptiveSampling adaptive.conf
