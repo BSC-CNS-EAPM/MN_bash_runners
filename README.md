@@ -13,6 +13,13 @@ A collection of bash files to launch jobs in different MareNostrum clusters
 | AMBER-charmGui | :white_check_mark: | [run_amber_charmGui.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/marenostrumV/run_amber_charmGui.sh) |
 | HelixFold3 | :white_check_mark: | [run_helixFold3.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/marenostrumV/HelixFold3/run_helixFold3.sh) |
 
+### Nord4
+| Software | Available | File |
+| :------- | :-------: | :------- |
+| PELE-1.8.0 | :white_check_mark: | [run_pele_v1.8.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/blob/main/run_files/nord4/run_pele_v1.8.sh) |
+| PELEPlatform-1.6.3 | :white_check_mark: | [run_peleplatform_v1.6.3.sh](https://github.com/BSC-CNS-EAPM/MN_bash_runners/tree/main/run_files/nord4/run_peleplatform_v1.6.3) |
+
+
 ### CTE-AMD
 | Software | Available | File |
 | :------- | :-------: | :------- |
